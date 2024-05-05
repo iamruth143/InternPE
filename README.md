@@ -2,7 +2,7 @@ ABOUT:
 
 InternPE Internship Program.
 
-=> This a Free intership program conducted by the Internpe community.
+=> This a Free online intership program conducted by the Internpe community. You can do from anywhere.
 
 => My internship is in Python Programming.
 
