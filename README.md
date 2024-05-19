@@ -28,7 +28,7 @@ Task 1 : Develop a digital clock using Python Programming Language.
 
 Task 2 : Create a TIC TAK TOE game using Python Language.
 
-Task 3 :
+Task 3 : Create a Snake game using Python Language.
 
 Task 4 :
 
